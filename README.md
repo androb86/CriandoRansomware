@@ -1,0 +1,2 @@
+# CriandoRansomware
+Entendendo sobre Ransomware
